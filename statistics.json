@@ -1,0 +1,32 @@
+{
+  "T1": {
+    "min": 10,
+    "max": 20.9,
+    "average": 15.14
+  },
+  "T2": {
+    "min": 2,
+    "max": 10.5,
+    "average": 6.01
+  },
+  "Drive_freq": {
+    "min": 4270000000.0,
+    "max": 4792000000.0,
+    "average": 4537800000.0
+  },
+  "Readout_0": {
+    "min": 0.9,
+    "max": 0.962,
+    "average": 0.942
+  },
+  "Readout_1": {
+    "min": 0.85,
+    "max": 0.922,
+    "average": 0.906
+  },
+  "Gate_fidelity": {
+    "min": 0.992,
+    "max": 0.998,
+    "average": 0.996
+  }
+}

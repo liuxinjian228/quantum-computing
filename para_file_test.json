@@ -1,0 +1,92 @@
+{
+  "Q1": {
+    "Drive_freq": 0,
+    "T1": 0,
+    "T2": 0,
+    "Readout_0": 0,
+    "Readout_1": 0,
+    "Gate_fidelity": 0,
+    "Tls": []
+  },
+  "Q2": {
+    "Drive_freq": 0,
+    "T1": 0,
+    "T2": 0,
+    "Readout_0": 0,
+    "Readout_1": 0,
+    "Gate_fidelity": 0,
+    "Tls": []
+  },
+  "Q3": {
+    "Drive_freq": 0,
+    "T1": 0,
+    "T2": 0,
+    "Readout_0": 0,
+    "Readout_1": 0,
+    "Gate_fidelity": 0,
+    "Tls": []
+  },
+  "Q4": {
+    "Drive_freq": 0,
+    "T1": 0,
+    "T2": 0,
+    "Readout_0": 0,
+    "Readout_1": 0,
+    "Gate_fidelity": 0,
+    "Tls": []
+  },
+  "Q5": {
+    "Drive_freq": 0,
+    "T1": 0,
+    "T2": 0,
+    "Readout_0": 0,
+    "Readout_1": 0,
+    "Gate_fidelity": 0,
+    "Tls": []
+  },
+  "Q6": {
+    "Drive_freq": 0,
+    "T1": 0,
+    "T2": 0,
+    "Readout_0": 0,
+    "Readout_1": 0,
+    "Gate_fidelity": 0,
+    "Tls": []
+  },
+  "Q7": {
+    "Drive_freq": 0,
+    "T1": 0,
+    "T2": 0,
+    "Readout_0": 0,
+    "Readout_1": 0,
+    "Gate_fidelity": 0,
+    "Tls": []
+  },
+  "Q8": {
+    "Drive_freq": 0,
+    "T1": 0,
+    "T2": 0,
+    "Readout_0": 0,
+    "Readout_1": 0,
+    "Gate_fidelity": 0,
+    "Tls": []
+  },
+  "Q9": {
+    "Drive_freq": 0,
+    "T1": 0,
+    "T2": 0,
+    "Readout_0": 0,
+    "Readout_1": 0,
+    "Gate_fidelity": 0,
+    "Tls": []
+  },
+  "Q10": {
+    "Drive_freq": 0,
+    "T1": 0,
+    "T2": 0,
+    "Readout_0": 0,
+    "Readout_1": 0,
+    "Gate_fidelity": 0,
+    "Tls": []
+  }
+}

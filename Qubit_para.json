@@ -1,0 +1,94 @@
+{
+  "Q1": {
+    "Drive_freq": 4700000000.0,
+    "T1": 15,
+    "T2": 5,
+    "Readout_0": 0.9,
+    "Readout_1": 0.85,
+    "Gate_fidelity": 0.992,
+    "Tls": [
+      0.2,
+      0.3
+    ]
+  },
+  "Q2": {
+    "Drive_freq": 4270000000.0,
+    "T1": 10,
+    "T2": 2,
+    "Readout_0": 0.92,
+    "Readout_1": 0.89,
+    "Gate_fidelity": 0.994
+  },
+  "Q3": {
+    "Drive_freq": 4780000000.0,
+    "T1": 11,
+    "T2": 3,
+    "Readout_0": 0.94,
+    "Readout_1": 0.92,
+    "Gate_fidelity": 0.996
+  },
+  "Q4": {
+    "Drive_freq": 4320000000.0,
+    "T1": 20,
+    "T2": 10,
+    "Readout_0": 0.96,
+    "Readout_1": 0.91,
+    "Gate_fidelity": 0.998
+  },
+  "Q5": {
+    "Drive_freq": 4700000000.0,
+    "T1": 11.5,
+    "T2": 3,
+    "Readout_0": 0.94,
+    "Readout_1": 0.92,
+    "Gate_fidelity": 0.996
+  },
+  "Q6": {
+    "Drive_freq": 4340000000.0,
+    "T1": 20.6,
+    "T2": 10,
+    "Readout_0": 0.96,
+    "Readout_1": 0.91,
+    "Gate_fidelity": 0.998
+  },
+  "Q7": {
+    "Drive_freq": 4790000000.0,
+    "T1": 11.2,
+    "T2": 3.2,
+    "Readout_0": 0.94,
+    "Readout_1": 0.922,
+    "Gate_fidelity": 0.997
+  },
+  "Q8": {
+    "Drive_freq": 4340000000.0,
+    "T1": 20.1,
+    "T2": 10.5,
+    "Readout_0": 0.962,
+    "Readout_1": 0.91,
+    "Gate_fidelity": 0.998
+  },
+  "Q6": {
+    "Drive_freq": 4340000000.0,
+    "T1": 20.6,
+    "T2": 10,
+    "Readout_0": 0.96,
+    "Readout_1": 0.91,
+    "Gate_fidelity": 0.998
+  },
+  "Q9": {
+    "Drive_freq": 4792000000.0,
+    "T1": 11.1,
+    "T2": 3.2,
+    "Readout_0": 0.94,
+    "Readout_1": 0.922,
+    "Gate_fidelity": 0.997
+  },
+  "Q10": {
+    "Drive_freq": 4346000000.0,
+    "T1": 20.9,
+    "T2": 10.2,
+    "Readout_0": 0.962,
+    "Readout_1": 0.91,
+    "Gate_fidelity": 0.998
+  }
+}
